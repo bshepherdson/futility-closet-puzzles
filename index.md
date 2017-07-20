@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+<style type="text/css">
+.fold h3 {
+  background: #95ceea;
+  cursor: pointer;
+  margin: 0;
+  padding: 12px;
+}
 
-You can use the [editor on GitHub](https://github.com/shepheb/futility-closet-puzzles/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+.fold p {
+  display: none;
+}
+.fold.show p {
+  border: 1px solid #e0e0e0;
+  border-top: none;
+  display: block;
+  margin: 0;
+  padding: 12px;
+}
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Futility Closet Lateral Thinking Puzzles
 
-### Markdown
+This is a list of the lateral thinking puzzles heard in the Futility Closet
+Podcast.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
+to reveal them.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Episode 14 - The Unsinkable Violet Jessop
 
-- Bulleted
-- List
+- Sharon reading, Greg guessing.
+- Segment intro 23:58.
+- Puzzle begins 25:01, duration 5:39.
+- From Paul Sloane and Des MacHale's *Ingenious Lateral Thinking Puzzles* (1998).
 
-1. Numbered
-2. List
+Sometime after Salvador Dali's death, his younger brother became famous as a
+surrealist painter. This younger brother had great international success, and
+the word "genius" was used to describe him. His name was Dali, and he did not
+change it. Yet today, the world remembers only one Dali, and few people even
+know that he had a brother. Why is this?
 
-**Bold** and _Italic_ and `Code` text
+<div id="sol-14" class="fold" markdown="1">
+### Solution
 
-[Link](url) and ![Image](src)
-```
+Two brothers in the same family were both named Salvador Dali. The
+elder of them lived only until 7 years of age. 9 months later, his parents had
+another son. They also named him Salvador, and this younger brother is the one
+the world knows as the surrealist painter Salvador Dali. They were never alive
+at the same time.
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shepheb/futility-closet-puzzles/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script language="javascript">
+  var folds = document.querySelectorAll('.fold');
+  for (var i = 0; i < folds.length; i++) {
+    var fold = folds[i];
+    var header = fold.querySelector('h3');
+    header.addEventListener('click', function() {
+      fold.classList.toggle('show');
+    });
+  }
+</script>
