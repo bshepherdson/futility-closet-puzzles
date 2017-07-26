@@ -35,6 +35,525 @@ Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
 
+## Episode 35 - Lateral Thinking Puzzles
+
+### Puzzle 1
+
+- Greg reading, Sharon guessing.
+- Segment begins 1:31.
+- Puzzle begins 1:52, duration 0:56.
+- Source: Erwin Brecher's *Lateral Thinking Puzzles* (2010)
+
+A man left home on Monday, riding a donkey, to make a pilgrimage to Canterbury.
+The jouney took two days. He stayed two days in Canterbury, and the journey home
+took another two days. He arrived home on Friday. How?
+
+<div id="sol-35-1" class="fold" markdown="1">
+### Solution
+
+Friday is the name of his donkey.
+</div>
+
+
+
+### Puzzle 2
+
+- Sharon reading, Greg guessing.
+- Puzzle begins 2:58, duration 2:45.
+- Source: Listener Nicholas Madrid
+
+In the presence of witnesses, a man draws a pistol and shoots his brother dead.
+After firing this fatal shot, he drops the gun and bursts into tears. The police
+arrive on the scene, establish that the man deliberately murdered his brother,
+but don't arrest him. Why not?
+
+<div id="sol-35-2" class="fold" markdown="1">
+### Solution
+
+The brothers are conjoined, or Siamese, twins. The shooter is planning to commit
+suicide, and he shoots his brother first so his brother doesn't have to witness
+his death. By the time the police arrive, both brothers are dead, so there's no
+one to arrest.
+</div>
+
+
+
+### Puzzle 3
+
+- Greg reading, Sharon guessing.
+- Puzzle begins 5:50, duration 2:24.
+- Source: Listeners Trey and Lyssa
+
+Two cars made their along a winding country road and came to an abrupt stop at a
+park gate. Seven men got out of the cars, and had started along a footpath when
+it began to rain. Six of the men began to walk faster to get out of the rain,
+but the seventh man couldn't be bothered. Ironically, it was the seventh man who
+remained dry while the other six got soaked. Since all seven men arrived at
+their destination together, how is this possible?
+
+<div id="sol-35-3" class="fold" markdown="1">
+### Solution
+
+The seventh man is a corpse in a coffin, being carried by the other six. The
+park is a cemetary. So they arrive together, and the seventh man is dry.
+</div>
+
+
+
+### Puzzle 4
+
+- Greg reading, Sharon guessing.
+- Puzzle begins 9:01, duration 0:47.
+- Source: Listener David White
+
+A ship sets out on its maiden voyage. Just before arriving at its destination,
+the ship is involved in a serious accident, and wrecked. Although no one is
+injured in the wreck, the accident is very costly and highly embarrassing. Later
+it turns out that if the owners of the ship hadn't been Americans, the accident
+probably would not have happened.
+
+<div id="sol-35-4" class="fold" markdown="1">
+### Solution
+
+The lateral thinking trick here is to realize that the ship in the story is
+actually a spaceship. This is the true story of the Mars Climate Orbiter,
+launched in 1998, in order to study the Martian climate and atmosphere. The
+ship's voyage of over nine months from Earth to Mars went smoothly, but on
+September 23, 1999, as NASA engineers attempted to put the spacecraft into orbit
+around Mars, contact with the orbiter was lost.
+
+Over the next two days, NASA tried to regain contact with the spacecraft, but
+failed. On September 25 the mission was declared a failure. The investigations
+that followed revealed that the orbiter had been inserted into the Martian
+atmosphere far closer to the planet than intended. The result was either that
+the spacecraft was buffetted and destroyed completely by the atmosphere, or that
+it fell out of orbit and drifted out of control toward the Sun.
+
+The most embarrassing discovery, however, was that the accident had happened due
+to a simple miscalculation. It turned out that one team working on the orbital
+software had made their calculations in metric units, Newtons per second, while
+another team had used English units, pounds per second. As a result, the
+thrusters putting the ship into orbit had fired with more than four times the
+thrust intended, pushing the ship 170km closer to the planet than intended, and
+wrecking the spacecraft. The project losses were estimated to be over $327
+million.
+</div>
+
+
+
+### Puzzle 5
+
+- Sharon reading, Greg guessing.
+- Puzzle begins 11:35, duration 9:50.
+- Source: Paul Sloane and Des MacHale's *Remarkable Lateral Thinking Puzzles*
+  (2014).
+
+A man who disliked smoking lit a cigarette in order to reach his goal more
+quickly. How did it help?
+
+<div id="sol-35-5" class="fold" markdown="1">
+### Solution
+
+The man was riding a bus on which smoking was not allowed. The nearest bus stops
+before and after his destination were both a long walk away. By lighting the
+cigarette as he approached the nearest point to his destination, he contrived to
+be kicked off the bus between the stops, close to his destination.
+</div>
+
+
+
+### Puzzle 6
+
+- Greg reading, Sharon guessing.
+- Puzzle begins 21:55, duration 1:29.
+- Source: Listener Pete Miller
+
+A vandal sprayed purple paint across the back of her new white fur coat. Later,
+this saved her life.
+
+<div id="sol-35-6" class="fold" markdown="1">
+### Solution
+
+The owner of the fur coat is a live baby seal. Her life was saved because the
+hunters wouldn't kill her for her painted coat.
+</div>
+
+
+
+### Puzzle 7
+
+- Greg reading, Sharon guessing.
+- Puzzle begins 23:34, duration 1:55.
+- Source: Listener David White
+
+A man is lying in bed alone, unable to fall asleep. After some time, he picks up
+the phone and makes a call. A few moments later, he hangs up the phone without
+saying anything, and falls asleep shortly afterwards. What's going on?
+
+<div id="sol-35-7" class="fold" markdown="1">
+### Solution
+
+The man is in a hotel. The snoring from the room next door was keeping him up,
+so he phoned the room and woke the snorer. He fell asleep quickly in the quiet.
+</div>
+
+
+
+## Episode 34 - Spring-Heeled Jack - A Victorian Supervillain
+
+- Sharon reading, Greg guessing.
+- Segment begins 28:18.
+- Puzzle begins 28:40, duration 6:33.
+- Source: Paul Sloane and Des MacHale's *Ingenious Lateral Thinking Puzzles*
+  (1998)
+
+Part of the police manual gives instructions in a language that none of the
+policemen speaks. Why?
+
+<div id="sol-34" class="fold" markdown="1">
+### Solution
+
+The instructions are commands meant to be given by K-9 officers to police dogs.
+The dogs are trained in another language, such as German, and the manual teaches
+these commands to the officers.
+
+Part of the idea is that this makes it unlikely that a suspect or bystander can
+confuse the dog by giving conflicting commands. It may be more that many dogs
+are imported having been trained in Germany or elsewhere, and having learned
+German commands.
+</div>
+
+
+
+
+## Episode 33 - Death and Robert Todd Lincoln
+
+- Greg reading, Sharon guessing.
+- Segment begins 27:18.
+- Puzzle begins 27:33, duration 6:04.
+- Source: Paul Sloane and Des MacHale's *Great Lateral Thinking Puzzles* (1994)
+
+In Australia, a perfectly good building was demolished, and an almost identical
+one erected on exactly the same site. The original building was in good
+condition, it had no defects, and there was no issue of safety or planning
+permission. Why was it demolished?
+
+<div id="sol-33" class="fold" markdown="1">
+### Solution
+
+The building was the Australian mint. Enough gold dust from the manufacture of
+coins had become impregnated in the walls of the building to make it profitable
+to knock it down, harvest the gold, and reconstruct it.
+
+This is sort of based on a true story, but it seems that the value of the gold
+was only some $32,000. It's also not clear how to recover the gold dust from the
+demolished structure. For the purposes of the puzzle, it's conceivable that
+there could be enough gold dust to cover the reconstruction cost.
+</div>
+
+
+
+## Episode 32 - The Wow! Signal
+
+- Sharon reading, Greg guessing.
+- Segment intro 23:04.
+- Puzzle begins 23:26, duration 8:15.
+- Source: Paul Sloane and Des MacHale's *Ingenious Lateral Thinking Puzzles*
+  (1998).
+
+Why does a man drive his car on a long journey at a steady 15 miles per hour?
+The speed limit is well above that, and his car is in full working order and
+capable of high speeds.
+
+
+<div id="sol-32" class="fold" markdown="1">
+### Solution
+
+The man is a beekeeper. He is carrying a queen bee in the car, and is driving
+slowly so that the colony of bees can fly along with the car.
+</div>
+
+
+
+
+
+## Episode 31 - Pigs on Trial
+
+### Puzzle 1
+
+- Greg reading, Sharon guessing.
+- Segment intro 22:58.
+- Puzzle begins 23:20, duration 1:02.
+- Source: Paul Sloane and Des MacHale's *Great Lateral Thinking Puzzles* (1994)
+
+A woman walked up to a man behind a counter and handed him a book. He looked at
+it and said "That will be four dollars." She paid the man, and then walked out
+without the book. He saw her leave without it, but did not call her back. Why?
+
+<div id="sol-31-1" class="fold" markdown="1">
+### Solution
+
+The woman was returning an overdue library book, so she paid her late fee and
+returned the book.
+</div>
+
+
+### Puzzle 2
+
+- Greg reading, Sharon guessing.
+- Puzzle begins 24:35, duration 4:23.
+- Source: Listener Meagan Walsh Girard, who credits her husband Steve.
+
+A bell rings, a man dies, a bell rings.
+
+<div id="sol-31-1" class="fold" markdown="1">
+### Solution
+
+The man is a blind swimmer training for a competition. He's swimming in the
+ocean near the shore, and his trainer is on the beach. The trainer is supposed
+to signal him the direction of the shore by ringing a bell. However, the swimmer
+hears the bell of a buoy marking a channel farther out to sea, swims out toward
+the buoy, and drowns.
+</div>
+
+
+
+## Episode 30 - The Oak Island Money Pit
+
+- Sharon reading, Greg guessing.
+- Segment intro 19:24.
+- Puzzle begins 19:48, duration 10:12.
+- Source: Listener Nicholas Madrid
+
+One morning, a woman performs three errands: first, she buys a pair of
+sunglasses; next, she sells her husband's entire wardrobe at the thrift store;
+then she has a meeting with her divorce lawyer. She returns home in the
+afternoon to discover her husband's body on the front lawn. How did he die?
+
+<div id="sol-30" class="fold" markdown="1">
+### Solution
+
+Early in the winter, after a night of drinking, the husband came home, passed
+out on the lawn, froze to death, and was buried by a blizzard overnight. Some
+time after his disappearance, his wife assumes he's left her for good, and
+starts divorce proceedings.
+
+As the weather warms up, the snow melts that day enough to expose his body and
+reveal his fate.
+</div>
+
+
+
+
+## Episode 29 - The Mystery of Kaspar Hauser
+
+- Greg reading, Sharon guessing.
+- Segment intro 28:35.
+- Puzzle begins 28:47, duration 5:30.
+- Source: Paul Sloane and Des MacHale's *Great Lateral Thinking Puzzles* (1994)
+- True story.
+
+Why did a man go to great trouble to bury in the desert 15 brand new
+Mercedes-Benz cars, all greased and wrapped in plastic?
+
+<div id="sol-29" class="fold" markdown="1">
+### Solution
+
+This was in the Sinai Peninsula after the Six Day War between Egypt and Israel.
+Israel had seized large parts of the desert from Egypt, but it was probable it
+would be handed back to Egypt.
+
+Due to import duties, Merdeces cars were much cheaper in Israel than in Egypt.
+It was becoming clear that the desert would be returned to Egypt. By burying the
+cars and waiting until the border moved across them, they were effectively
+exported.
+
+News story links
+[here](http://news.google.com/newspapers?nid=1946&dat=19800116&id=TBYyAAAAIBAJ&sjid=bqQFAAAAIBAJ&pg=1310,3136589) and [here](http://news.google.com/newspapers?nid=1946&dat=19820206&id=-zsyAAAAIBAJ&sjid=66QFAAAAIBAJ&pg=6046,1683894).
+</div>
+
+
+
+## Episode 28 - The Real-Life Sherlock Holmes
+
+- Sharon reading, Greg guessing.
+- Segment intro 24:38.
+- Puzzle begins 24:52, duration 5:03.
+- Source: Not mentioned.
+- True story.
+
+A young woman purchases a car. Soon after, the car is very badly damaged, but
+she ends up being quite pleased that this has happened. Why is that?
+
+<div id="sol-28" class="fold" markdown="1">
+### Solution
+
+The car was damaged when a meteorite fell onto it. This was the Peakskill
+Meteorite in 1992, in Peakskill, New York. The car was a 1980 Chevy Malibu the
+owner had purchased for $300. The car was wrecked by the 26-pound meteorite. But
+she sold the car to the wife of a meteorite collector for $10,000, and the
+meteorite itself to a consortium for $69,000.
+</div>
+
+
+
+## Episode 27 - The Man Who Volunteered for Auschwitz
+
+- Greg reading, Sharon guessing.
+- Segment intro 24:02.
+- Puzzle begins 24:16, duration 6:50.
+- Source: Listener David White
+- True story.
+
+A man in uniform aims carefully and takes a shot. He hits the target, and in so
+doing, saves the lives of thousands of people, including many who are angry with
+him. How?
+
+
+<div id="sol-27" class="fold" markdown="1">
+### Solution
+
+The man in uniform was college basketball player Mykal Riley. He played for
+Alabama State in a game on March 14, 2008 against Mississippi. With two seconds
+on the clock, Alabama was trailing 59-56. Riley got the ball and sank a
+three-point shot, tying the game. Eight minutes later, a tornado hit the
+Georgiadome, where the game was being played. It caused serious structural
+damage to the facility, but no one was injured. But if Riley had missed that
+shot, fans would have been streaming out of the arena, and many would have been
+killed when the tornado touched down.
+</div>
+
+
+
+## Episode 26 - A Practical Joke on a Grand Scale
+
+- Sharon reading, Greg guessing.
+- Segment intro 20:22.
+- Puzzle begins 21:08, duration 9:03.
+- Source: Listener Nicholas Madrid
+
+On the hottest day of the year, an octopus sits in the upper limbs of a tree
+near Adelaide, Australia. It arrived there because of a foolish prank committed
+by a certain man. After a nationwide search the man is arrested, tried, and
+sentenced to 20 years in prison. What crime did the man commit?
+
+<div id="sol-26" class="fold" markdown="1">
+### Solution
+
+The crime was arson. The man deliberately sets a fire which turns into a large
+blaze. Several people are killed, and firefighters use a helicopter with a large
+bucket to scoop water from the ocean to dump on the fire. The octopus gets
+caught in the bucket and dumped over the fire, ending up in the top of a charred
+tree.
+</div>
+
+<div id="followup-26-1" class="fold" markdown="1">
+### Followup - Episode 27
+
+David Brooks wrote in to point out the Pacific Northwest Tree Octopus. This is a
+fictional animal, an octopus that supposedly lives in the trees of the temperate
+rainforests of the Pacific Northwest.
+
+It is a hoax developed by a group of education researchers at the University of
+Connecticut. They built a detailed website about the supposedly endangered
+creature, describing its habits and life cycle. It has photos and testimonials
+and so on. It was showed to 7th grade students in Connecticut, to see if they
+could detect the hoax. Very few caught on to it, and some even protested that
+the octopus was real after being told it was a hoax.
+
+This incident has become a classic example of how straightforward it is to make
+a comprehensive, professional and convincing website making any claim at all.
+The site had deliberate hints that it was a hoax, such as giving the names of
+the tree octopus in Sasquatch and Yeti. But on the whole, it was detailed and
+had lots of scientific terms, links to other sites, and so on.
+
+[Link: Original tree octopus site](http://zapatopi.net/treeoctopus/)<br>
+[Link: Article from the researchers](http://advance.uconn.edu/2006/061113/06111308.htm)
+</div>
+
+<div id="followup-26-2" class="fold" markdown="1">
+### Followup - Episode 29
+
+Listener Mark Weitzenkamp is an academic advisor for undergraduates. He has two
+posters on his walls, both in the WPA poster style of the 1930s. One is a
+reproduction of a real WPA poster about a show done as a federal theatre
+project, and the other is the Save the Northwest Tree Octopus poster.
+
+In two or three years, only a few students have pointed it out as a joke.
+
+The poster has the image of the octopus in the tree, but it also has the same
+design and frame as the real poster, and no marks of humour. The students don't
+exactly trust it, but they also don't think to distrust it. It's just another
+thing.
+</div>
+
+
+
+## Episode 25 - An Australian Engima
+
+- Greg reading, Sharon guessing.
+- Segment intro 22:41.
+- Puzzle begins 23:05, duration 5:00.
+- Source: Kyle Hendrickson's *Mental Fitness Puzzles* (1998)
+
+A man walks into his back yard in the middle of the night and fires a gun. Due
+to his strange behavior, he never sees another sunrise. No, he didn't kill
+himself. Can you explain this odd occurrence?
+
+<div id="sol-25" class="fold" markdown="1">
+### Solution
+
+The man was a farmer who recently retired. Tired of being awoken at dawn when he
+didn't need to be up early anymore, he took the extreme step of shooting his
+rooster. He lived several more years, but never saw another sunrise.
+</div>
+
+
+
+## Episode 24 - The World's Worst Poet
+
+- Sharon reading, Greg guessing.
+- Segment intro 20:02.
+- Puzzle begins 20:23, duration 8:04.
+- Source: Listener Nicholas Madrid
+
+In a public place, a man deliberately exposes a portion of his anatomy to a
+horrified crowd of men, women and children. Several children burst into tears,
+and one outraged father almost tackles the man. After the incident the man is
+dismissed from his job, he receives hate mail, and a local newspaper brands him
+a "monster", but there is never any suggestion that he should be prosecuted, and
+the police are never involved. Why not?
+
+<div id="sol-24" class="fold" markdown="1">
+### Solution
+
+The man was playing Santa Claus in a mall. The portion of his anatomy that he
+exposed was his chin underneath his false beard.
+</div>
+
+
+
+## Episode 23 - A Victorian Poisoning Mystery
+
+- Greg reading, Sharon guessing.
+- Segment intro 25:37.
+- Puzzle begins 26:04, duration 5:50.
+- Source: Kyle Hendrickson's *Mental Fitness Puzzles* (1998)
+
+On the first day of a business trip to Japan, BJ arrives at a large office
+building. She has never been there before, and can't read any of the signs.
+Without seeing or talking to anyone, she quickly makes her way through a
+labyrinth of hallways to arrive at her destination. How?
+
+<div id="sol-23" class="fold" markdown="1">
+### Solution
+
+BJ is an architect, and she designed the building. Therefore she knows its
+layout well, though she has never been there before.
+</div>
+
+
+
 ## Episode 22 - The Devil's Hoofmarks
 
 - Sharon reading, Greg guessing.
