@@ -35,6 +35,269 @@ Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
 
+## Episode 39 - Lateral Thinking Puzzles
+
+### Puzzle 1
+
+- Greg reading, Sharon guessing.
+- Segment begins 2:30.
+- Puzzle begins 2:42, duration 0:47.
+- Source: Not mentioned.
+- True story.
+
+During World War 2, German anti-aircraft fire was inflicting heavy losses on
+Allied bombers. Officials wanted to protect the planes with armour, but
+armouring an entire aircraft would make it too heavy to fly. So they made a
+study of returning planes, noted the areas that showed the most damage, and
+planned to armour those areas. A mathematician considered this plan and
+suggested an alternative that would produce a better outcome. What was it?
+
+
+<div id="sol-39-1" class="fold" markdown="1">
+### Solution
+
+Since the returning planes had survived the damage they had suffered, armouring
+those areas would not be the best help. Instead, they should armour the areas
+that no surviving plane showed damage to, on the theory that damage there tended
+to be fatal.
+</div>
+
+
+
+### Puzzle 2
+
+- Greg reading, Sharon guessing.
+- Segment begins 3:48.
+- Puzzle begins 3:56, duration 0:14.
+- Source: Listener Lauren
+
+In 2004, the band They Might Be Giants released a song, never before available,
+on their new album. Yet if they had owned one of the earlier albums, a fan could
+have heard the song in 1999.
+
+
+<div id="sol-39-2" class="fold" markdown="1">
+### Solution
+
+The song is simply another reversed. *On Earth, my Nina*, released in 1999 on
+the album *Long Tall Weekend* is merely an inversion of *Thunderbird*, which
+came out in 2004 on *The Spine*. The songs are exactly the same, except for a
+redubbed vocal track for clarity.
+
+Curiously, the song was originally written as *Thunderbird*, and they released
+the reversed version first as *On Earth, my Nina*.
+</div>
+
+
+
+### Puzzle 3
+
+- Greg reading, Sharon guessing.
+- Segment begins 4:54.
+- Puzzle begins 4:59, duration 1:04.
+- Source: Kyle Hendrickson's *Mental Fitness Puzzles* (1998)
+
+Pierre went skydiving near his home in Dallas, Texas. As a result, Pierre saved
+his brother's life. Strangely, though, his brother lived in Boston and hadn't
+seen or spoken to his brother Pierre for many years. How could this miracle have
+taken place?
+
+<div id="sol-39-3" class="fold" markdown="1">
+### Solution
+
+Pierre was killed in a skydiving accident, and saved his brother's life because
+his organs were now available for transplantation.
+</div>
+
+
+
+### Puzzle 4
+
+- Sharon reading, Greg guessing.
+- Segment begins 6:20.
+- Puzzle begins 6:21, duration 5:20.
+- Source: Not mentioned.
+
+If you look at the western edge of South Dakota, where it borders Montana and
+Wyoming, you'll see a mostly straight line with a kink of about one mile, where
+the borders of Montana and Wyoming don't line up. The kink does not benefit any
+of the states, or local landowners, and no other states are involved. Why is the
+kink there?
+
+
+<div id="sol-39-4" class="fold" markdown="1">
+### Solution
+
+The answer lies in 19th-century surveying accuracy. Two different teams surveyed
+the borders. In 1877 one team surveyed the border with Wyoming, and set it. In
+1885, another figured the border with Montana. But the two surveys don't line
+up. Rather than pay to redo the whole survey, they added the kink.
+
+[Google Maps](https://www.google.ca/maps/@44.9940959,-104.0424009,9.97z?hl=en)
+</div>
+
+
+
+### Puzzle 5
+
+- Greg reading, Sharon guessing.
+- Segment begins 11:41.
+- Puzzle begins 11:43, duration 2:06.
+- Source: Listener Pete Miller.
+
+A dead body lies on the sidewalk. Next to it are a plate and a mint. What
+happened?
+
+<div id="sol-39-5" class="fold" markdown="1">
+### Solution
+
+The mint is the US Mint, responsible for making currency. The plate is an
+engraving plate stolen from the mint. The man was shot by security after
+stealing the plate.
+</div>
+
+
+
+### Puzzle 6
+
+- Greg reading, Sharon guessing.
+- Segment begins 13:50.
+- Puzzle begins 13:53, duration 3:10.
+- Source: Kyle Hendrickson's *Mental Fitness Puzzles* (1998)
+
+Herb gets a job in a new city. On the day of his move, Herb causes a traffic jam
+without ever leaving his home. How did Herb create such a monumental
+disturbance?
+
+<div id="sol-39-6" class="fold" markdown="1">
+### Solution
+
+Herb lives on a houseboat. While moving his houseboat, he passed under a
+drawbridge. The boat was too big for the bridge, and got stuck. Therefore, Herb
+caused a traffic jam (because the bridge was raised for a long time) without
+ever leaving his home.
+</div>
+
+
+### Puzzle 7
+
+- Sharon reading, Greg guessing.
+- Segment begins 17:08.
+- Puzzle begins 17:12, duration 0:45.
+- Source: Paul Sloane's *Lateral Thinking Puzzlers* (1991)
+- True story.
+
+In 1930, two men drove from New York to Los Angeles, and then back to New York,
+in a Ford motor car. The outbound leg of the journey, a total of 3,340 miles,
+took them 18 days. They drove on normal roads, and the car was not remarkable.
+But because of this journey, these two men hold a world record that endures to
+this day. What is it?
+
+
+<div id="sol-39-7" class="fold" markdown="1">
+### Solution
+
+They drove backwards. It's the fastest speed across the United States in
+reverse. (Average speed about 10 miles per hour.)
+
+They traveled day and night, sleeping in a customized seat in the car.
+</div>
+
+
+
+### Puzzle 8
+
+- Sharon reading, Greg guessing.
+- Segment begins 18:54.
+- Puzzle begins 19:02, duration 11:08.
+- Source: Paul Sloane's *Lateral Thinking Puzzlers* (1991)
+
+Mr. and Mrs. Jones were young and active people. Their next door neighbour, Mrs.
+Jackson, was a 93-year-old invalid. One day, they asked her into their house to
+do something that neither of them could do. What did they need her to do?
+
+
+<div id="sol-39-8" class="fold" markdown="1">
+### Solution
+
+They needed her to witness the signing of a contract. Since both the Joneses
+were party to the contract, they needed an outside witness.
+</div>
+
+
+
+
+## Episode 38 - The Thunder Stone
+
+- Greg reading, Sharon guessing.
+- Segment begins 26:58.
+- Puzzle begins 27:13, duration 1:58.
+- Source: Paul Sloane and Des MacHale's *Great Lateral Thinking Puzzles* (1994)
+
+A keen stamp collector who specialized in U.S. stamps saw an advertisement
+offering a complete set of early U.S. stamps for a fraction of what it was
+worth. He quickly bought it. Although it was a genuine, splendid collection, and
+a real bargain, he was angry, not pleased. What was going on?
+
+<div id="sol-38" class="fold" markdown="1">
+### Solution
+
+It was his own collection. He had been having an affair, and his wife found out.
+She sold his stamps for a fraction of their worth to get back at him.
+</div>
+
+
+
+
+
+## Episode 37 - Edgar Allan Poe's Graveyard Visitor
+
+- Sharon reading, Greg guessing.
+- Segment begins 20:35.
+- Puzzle begins 21:00, duration 10:40.
+- Source: Listener David White
+
+A man enters a monastery, greets the abbot, and begins conversing with the
+monks. One of them does not respond, however, which the abbot explains by
+telling the visitor that the monk has taken a vow of silence. The visitor thinks
+for a moment, then speaks a single word. Nobody says anything, but immediately
+the visitor pulls out a gun and shoots the silent monk. Why?
+
+<div id="sol-37" class="fold" markdown="1">
+### Solution
+
+The visitor is a German Gestapo officer during the Second World War. The
+monastery is in Italy, and the abbot and most of the monks are Italian. The monk
+the visitor shot was a fleeing American spy. The American doesn't speak Italian,
+so the abbot pretends that he has taken a vow of silence. The German visitor
+speaks the American's name, he says nothing but visibly reacts to the name, and
+the German shoots him.
+</div>
+
+
+
+
+## Episode 36 - The Great Moon Hoax
+
+- Greg reading, Sharon guessing.
+- Segment begins 28:55.
+- Puzzle begins 29:28, duration 3:37.
+- Source: Listener Michael Martin, after hearing his kids challenging each other
+  with it.
+
+A woman puts on a brand new pair of shoes that she hasn't worn before. She goes
+to work. She dies. What happened?
+
+<div id="sol-36" class="fold" markdown="1">
+### Solution
+
+The woman was a circus performer. She was the woman who stands against a
+backdrop while a knife-thrower throws knives around her. The extra height from
+her new, taller heels put her into the path of a knife.
+</div>
+
+
+
 ## Episode 35 - Lateral Thinking Puzzles
 
 ### Puzzle 1
@@ -223,6 +486,26 @@ are imported having been trained in Germany or elsewhere, and having learned
 German commands.
 </div>
 
+<div id="followup-34-1" class="fold" markdown="1">
+### Follow-up - Episode 36
+
+In 2008, all three of Montana's rabbis were involved in a joint Hanukkah
+celebration at the state capitol building. After the ceremony, a Helena police
+officer went up to one of the rabbis and introduced his bomb security dog,
+Miky. The officer, John Fosket, had been having a problem because Miky had
+been trained in Israel and only responded to Hebrew, which Fosket did not
+speak.
+
+Foscitt had been given a list of a dozen Hebrew commands, but Miky was not
+responding properly. Fosket had tried to use a Hebrew instructional audiobook
+from the library to improve his pronunciation, but Miky still wasn't responding
+properly.
+
+So Fosket sought out the rabbi, and with his help, improved his pronuciation to
+the point where Miky responded fully to his commands.
+
+[Link: New York Times](http://www.nytimes.com/2009/12/05/us/05religion.html)
+</div>
 
 
 
@@ -342,6 +625,15 @@ As the weather warms up, the snow melts that day enough to expose his body and
 reveal his fate.
 </div>
 
+<div id="followup-30-1" class="fold" markdown="1">
+### Followup - Episode 36
+
+Chris Owens sent in a link to the story of young Peter Gosling, who disappeared
+in 1978. Police, relatives, and hundreds of volunteers searched the area, but
+his body wasn't found until after a thaw.
+
+[Link (not a cheerful read)](https://news.google.com/newspapers?nid=1916&dat=19780301&id=bu8pAAAAIBAJ&sjid=Pm4FAAAAIBAJ&pg=1075,228300&hl=en)
+</div>
 
 
 
