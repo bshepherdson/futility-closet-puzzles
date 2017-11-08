@@ -35,6 +35,600 @@ Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
 
+## Episode 56 - Lateral Thinking Puzzles
+
+### Puzzle 1
+
+- Greg reading, Sharon guessing.
+- Segment begins 0:35.
+- Puzzle begins 0:48, duration 2:19.
+- Source: Listener Paul Capp.
+- Based on a true story.
+
+A man competes in a track and field event. After an unusually long time, his
+results are announced and posted on the stadium scoreboard. The crowd cheers and
+the man celebrates. A short while later, his teammate tells him the result and
+the man breaks into tears. Why?
+
+
+<div id="sol-56-1" class="fold" markdown="1">
+### Solution
+
+The man is American long jumper Bob Beaman. He was computing in the long jump at
+the Mexico City olympics in 1968. Jump distances were normally calculated using
+a graduated track next to the landing area, by sliding a marker along it. Beaman 
+jumped past the end of this track, and the delay was caused by the need to track
+down a tape measure to measure his jump.
+
+The results were posted in meters, which Beaman was not very familiar with. He
+knew he had done very well, and celebrated. Later, when a teammate told him the
+result in more familiar feet and inches, Beaman collapsed in tears when he
+realized he had beaten the world record not by a few inches, but by a huge
+margin of nearly two feet. His jump was 890cm, or 29 feet, 2.5 inches. His
+record stood for 23 years.
+
+[Video](https://www.youtube.com/watch?v=DEt_Xgg8dzc)
+</div>
+
+
+### Puzzle 2
+
+- Sharon reading, Greg guessing.
+- Segment begins 4:50.
+- Puzzle begins 5:05, duration 5:10.
+- Source: Listener Trey.
+
+Anne, Ben and Chris are siblings who were conceived on the same day. This year,
+Anne will be attending third grade while Ben and Chris attend kindergarten. Why?
+
+<div id="sol-56-2" class="fold" markdown="1">
+### Solution
+
+They were conceived in vitro, on the same day. Typically when this is done, many
+eggs are fertilized at once, and some are kept on ice for possible future use.
+
+So Anne was born, and then a few years later, her brothers were born. The
+brothers were born at the same time, because usually several eggs are implanted
+into the mother at the same time, since they're not guaranteed to grow.
+
+(Usually, the three are not considered triplets, just siblings. The two younger
+brothers are considered fraternal twins, since they were born at the same time.)
+</div>
+
+
+
+### Puzzle 3
+
+- Greg reading, Sharon guessing.
+- Segment begins 12:38.
+- Puzzle begins 12:45, duration 4:48.
+- Source: Puzzling Stack Exchange user JoeZ.
+- Based on a true story.
+
+Sometime in the early 20th century, a fire occurred in a crowded theater.
+Although the exit doors were not blocked on the outside, the panicked attendees
+could not get out of those doors and hundreds of people died from the fire. What
+happened to trap everybody in the theater?
+
+<div id="sol-56-3" class="fold" markdown="1">
+### Solution
+
+The doors opened inwards, into the theater's auditorium. With the panicked crowd
+crushing toward the doors, those at the front were unable to pull the doors
+inward to open them.
+
+This really happened, at the Iroquois Theater in Chicago, Dec. 30, 1903. After
+this incident, building codes were changed so all exit doors had to open
+outward and with obvious latches.
+
+To be thorough, there was other badness with some exits in this theater
+specifically. Some doors were locked, some blocked by boxes, some had unfamiliar
+latching mechanisms. But some doors, alas, were free and open, but could not be
+opened with the crowd pressing in.
+</div>
+
+
+## Episode 55 - The Dyatlov Pass Incident
+
+- Greg reading, Sharon guessing.
+- Segment begins 27:21.
+- Puzzle begins 27:35, duration 2:43.
+- Source: Listener Tyler St. Clair
+- Based on a true story.
+
+A woman signs her name on a document. A few months later, she moves into a
+richly furnished new home for free. How?
+
+
+<div id="sol-55" class="fold" markdown="1">
+### Solution
+
+The woman is elected governor of a state, and moves into the governor's mansion.
+The document is her ballot on election day.
+</div>
+
+
+## Episode 54 - Escape from Stalag Luft III
+
+- Sharon reading, Greg guessing.
+- Segment begins 29:42.
+- Puzzle begins 30:31, duration 3:56.
+- Source: Listener David White
+
+A husband and wife take their RV on a camping trip and start out one morning on
+a day-long hike. A few hours into the hike, however, the man falls and severely
+injures his leg, making it almost impossible for him to walk. He decides to sit
+and wait while his wife returns to the campsite to get help. The wife hikes back
+and arrives at the RV several hours later. She opens the door and steps inside,
+only to discover her husband already there, lying in the bed, dead. What
+happened?
+
+
+<div id="sol-54" class="fold" markdown="1">
+### Solution
+
+He was sitting near an overlook waiting for help. A heavy rainstorm came and he
+tried to move somewhere more sheltered, but his bad leg led him to fall off the
+cliff, and through the roof of his RV, onto the bed.
+</div>
+
+
+## Episode 53 - The Lost Colony
+
+- Greg reading, Sharon guessing.
+- Segment begins 23:16.
+- Puzzle begins 23:31, duration 6:29.
+- Source: Listener Blaine.
+- Based on a true story.
+
+A woman is writing a letter. There is a power failure. She dies. How did she
+die?
+
+
+<div id="sol-53" class="fold" markdown="1">
+### Solution
+
+The "letter" is a not a document, but a huge letter written in the sky by an
+airplane. The plane's engine fails, and she is killed in the crash.
+
+This is based on a true story. Her name was Suzanne Asbury-Oliver, and she was
+employed by Pepsi in the 1970s to go around America writing "PEPSI" in the sky.
+One day she was at the top of the "E" when the engine failed. She glided safely
+back to the airport in reality, but in the grand tradition of lateral thinking
+puzzles, this one was adapted to be fatal.
+</div>
+
+
+## Episode 52 - Moving Day in New York
+
+- Sharon reading, Greg guessing.
+- Segment begins 20:41.
+- Puzzle begins 21:03, duration 6:19.
+- Source: Listener Ken Murphy.
+
+A burglar gets a tip that a particular building has a lot of valuables inside,
+so he starts casing the place. On the first night he observes a person arriving
+at the building, unlocking a garage door, and going inside. After a few monutes,
+the person leaves, closes the door a re-locks it with a padlock, carefully
+scrambling the combination.
+
+When the coast is clear the burglar takes a closer look at the lock and sees
+that it's a multiple dial combination lock, the kind with several rotating disks
+with numbers.
+
+For the next couple of weeks, the burglar continues to observe every night. The
+same thing happens: every night a person arrives and follows the same routine.
+Finally, one night, after the visitor departs the burglar walks up to the
+building, unlocks the combination lock, and robs the place.
+
+
+
+<div id="sol-52" class="fold" markdown="1">
+### Solution
+
+When the visitor closes the lock on the way out, he carefully scrambles the
+dials. When people do this, they reflexively make every digit in the scramble
+differ from the correct digit in that position.
+
+So by observing enough scrambled combinations, the burglar can determine the
+correct values by a process of elimination.
+</div>
+
+
+
+## Episode 51 - Poet Doppelg&auml;ngers
+
+### Puzzle 1
+
+- Greg reading, Sharon guessing.
+- Segment begins 27:02.
+- Puzzle begins 27:22, duration 0:55.
+- Source: Kyle Hendrickson's *Mental Fitness Puzzles* (1998)
+
+Eric spends his vacation in the Swiss Alps. Unforuntately, he ends up spending
+the greater part of his visit in the hospital, after having taken a nasty spill
+while skiing. On his return trip home to the U.S., the authorities do not ask
+him to show his passport. Why not?
+
+
+<div id="sol-51-1" class="fold" markdown="1">
+### Solution
+
+Eric died in the hospital of his skiing injuries. His body was repatriated to
+the United States, but corpses need not have passports.
+</div>
+
+
+### Puzzle 2
+
+- Greg reading, Sharon guessing.
+- Segment begins 28:39.
+- Puzzle begins 29:09, duration 2:03.
+- Source: Kyle Hendrickson's *Mental Fitness Puzzles* (1998)
+
+Christopher learns about a terrible crime that has been committed by John and
+Bob. He has known both of these men for many years, and cares for them equally.
+Why, then, does he only report John to the authorities, and not Bob?
+
+<div id="sol-51-2" class="fold" markdown="1">
+### Solution
+
+Christopher is a Catholic priest, and Bob has confessed to him. Confessionals
+are privileged, and priests are barred from disclosing the things confessed to
+them. Christopher later learns of John's involvement outside of a confession,
+and reports John to the authorities.
+</div>
+
+
+## Episode 50 - The Great Tea Race
+
+- Sharon reading, Greg guessing.
+- Segment begins 23:38.
+- Puzzle begins 24:15, duration 8:55.
+- Source: Listener Nicholas Madrid.
+
+After drinking some raspberry Kool-Aid, a woman is feeling childish and
+nostalgic. She phones her best friend, with whom she has not spoken in 6 months.
+Eventually the woman receives an apology from her ten-year-old nephew.
+
+
+<div id="sol-50" class="fold" markdown="1">
+### Solution
+
+The nephew had added liquor to the Kool-Aid as a prank. The woman was a
+recovering alcoholic, and the friend was her old drinking buddy. They hadn't
+spoken since the woman decided to go sober.
+</div>
+
+## Episode 49 - Can a Kitten Climb the Matterhorn?
+
+- Greg reading, Sharon guessing.
+- Segment begins 25:56.
+- Puzzle begins 26:12, duration 5:32.
+- Source: Listener David White, adapted from an old episode of NPR's *Car Talk*.
+
+Jeff had a problem that required him to have his car towed to the garage. After
+his car was dropped off, Jeff walked to a nearby restaurant to have lunch while
+he waited. During his lunch, the mechanic at the garage called Jeff and told him
+"I'm sorry, I can't seem to find anything wrong with your car." Jeff replied
+"Well, I'm not surprised to hear that." After a further explanation from Jeff,
+the mechanic said "Oh, I see. Sure, I can get that fixed." A few hours later,
+the problem was fixed, and Jeff drove his car back home. What had been fixed?
+
+
+
+<div id="sol-49" class="fold" markdown="1">
+### Solution
+
+Jeff owns both the car and the tow truck. The car is in perfect order, but the
+brakes on his tow truck are failing. Jeff tows his car to the garage, while his wife rides in the car and applies its functioning brakes to supplement the truck's
+brakes.
+
+So the mechanic finds no problems with Jeff's car, Jeff explains the confusion,
+and the mechanic fixes the truck.
+
+Don't try this at home!
+</div>
+
+
+
+## Episode 48 - The Shark Arm Affair
+
+- Sharon reading, Greg guessing.
+- Segment begins 24:04.
+- Puzzle begins 24:29, duration 6:30.
+- Source: Listener Lily Geller.
+
+A man dies at a sporting event. Everyone involved is arrested, but no one is
+charged with his death. Why?
+
+<div id="sol-48" class="fold" markdown="1">
+### Solution
+
+The sporting event is a cockfight. Everyone involved is arrested because
+cockfighting is illegal. The cocks had sharp blades attached to their legs for
+these fights. The man was attacked by one rooster and cut badly in the leg, and
+died of the wounds. But no one was directly responsible for his death, so no one
+was charged.
+</div>
+
+
+
+## Episode 47 - The Scariest Travel Books Ever Written
+
+- Greg reading, Sharon guessing.
+- Segment begins 24:00.
+- Puzzle begins 24:15, duration 8:40.
+- Source: Listener David White.
+
+In 2012, a soccer match between Brazil and Argentina ended in a tie and went to
+a penalty shootout in order to determine the winner. As the shootout began, the
+first Brazilian player lined up behind the ball in preparation for his shot. As
+he stood there, however, it was clear to everyone that the man was uncertain
+about something, and he made no attempt to kick the ball. Suddenly a sharp burst
+of noise was heard in the stadium. A few seconds later, the noise was heard
+again, and then a third time after that. Someone yelled at the player, and he
+finally took his shot, and scored what would prove to be the game-winning goal.
+
+<div id="sol-47" class="fold" markdown="1">
+### Solution
+
+The players in the game are blind, playing 5v5. The player was uncertain about
+the direction of the goal. The sharp noise was a coach striking one goal post,
+then the other, then the first one again, with an iron bar. Finally, the guide
+stands directly behind the goal and call to the player, who then can take his
+shot.
+</div>
+
+
+## Episode 46 - The 1925 Serum Run to Nome
+
+- Sharon reading, Greg guessing.
+- Segment begins 23:27.
+- Puzzle begins 23:51, duration 7:34.
+- Source: Paul Sloane and Des MacHale's *Ingenious Lateral Thinking Puzzles* (1998)
+
+We generally consider ourselves to be a lot smarter and better educated than
+the people who lived in the prehistoric periods of the Stone Age, Bronze Age and
+Iron Age. But what was it that the men and women did in those times that no man
+or woman has managed to achieve for the last 4000 years?
+
+<div id="sol-46" class="fold" markdown="1">
+### Solution
+
+Domesticating an animal. People in prehistoric times domesticated many species,
+both for farms and at home: cows, pigs, horses, sheep, goats, dogs, and cats.
+
+There's a bit of an asterisk on this one, since it's not clear when eg. ferrets
+or rats were domesticated as pets. On the other hand, there's much less
+difference between a wild rat and domesticated rat than a wild boar and a
+farmyard pig.
+</div>
+
+<div id="followup-46-1" class="fold" markdown="1">
+### Follow-up - Episode 47
+
+Researchers in Russia have been working on domesticating the silver fox since
+the 1950s, which is well-documented.
+
+The foxes were originally aggressive to humans, but after only a few generations
+they resemble friendly dogs - they wag their tails, seek affectionate contact
+with humans, and so on.
+
+Darwin had noted that when a species is domesticated, there are phenotypic
+changes - changes to colour, size, and so on. The researchers domesticating the
+foxes found this too - they now have floppier ears and spotted coats. Curiously,
+the researchers weren't selecting for those traits, just for their temperament.
+
+These foxes are available as pets, but they're still quite expensive. They are
+very cute, though. There are charming videos on YouTube.
+</div>
+
+
+
+
+## Episode 45 - Crossing Africa for Love
+
+- Greg reading, Sharon guessing.
+- Segment begins 22:10.
+- Puzzle begins 22:23, duration 6:06.
+- Source: Listener Price Tipping.
+
+A man and a woman get married. After the wedding, the wife goes to their home,
+while the husband stays at the reception for some time. He then goes home, where
+he drowns in front of his wife. She does nothing to help him. How did he drown,
+and who was the man?
+
+
+<div id="sol-45" class="fold" markdown="1">
+### Solution
+
+This is how Attilla the Hun died, in 453 CE. He came home from the wedding
+drunk, hit a tent pole, broke his nose, and fell on his back. Alcohol thins the
+blood, and he drowned in the nosebleed. The marriage was unlikely to be a
+voluntary one, so his new wife either did not want to help him, or perhaps
+didn't realize he was dying, rather than just passed out.
+</div>
+
+
+
+
+
+## Episode 44 - Ballooning to the North Pole
+
+- Sharon reading, Greg guessing.
+- Segment begins 22:09.
+- Puzzle begins 22:42, duration 7:28.
+- Source: Listener David White.
+
+Catherine is out shopping one day when she is astonished to see an airplane
+flying upside down. Soon afterwards, because of the events triggered by this
+incident, Catherine no longer has her job.
+
+
+<div id="sol-44" class="fold" markdown="1">
+### Solution
+
+She did not see a real aircraft, but instead one of the famous "inverted Jenny"
+postage stamps. This 1918 stamp depicted a Curtiss JN-4 biplane, but the
+aircraft was inverted, while the text remained upright.
+
+Only one pane of 100 stamps with the inverted image was ever found, so the
+stamps are extremely rare. Most are sold for prices from US$125,000 to $600,000, though a particularly fine example sold May 31, 2016 for US$1,175,000 million.
+
+Catherine spotted an Inverted Jenny on an old letter in an antique shop,
+recognized it as valuable, bought it for a few dollars, sold it for a fortune,
+and retired from her job.
+
+[Wikipedia: Inverted Jenny](https://en.wikipedia.org/wiki/Inverted_Jenny)
+</div>
+
+
+
+
+## Episode 43 - Ben Franklin's Guide to Living
+
+- Greg reading, Sharon guessing.
+- Segment begins 30:19.
+- Puzzle begins 30:40, duration 1:32.
+- Source: Listener Paul Capp.
+
+The Pentagon building, among its many peculiar characteristics, has twice
+the number of bathrooms and toilets that an office building of its size and
+capacity would normally have.
+
+<div id="sol-43" class="fold" markdown="1">
+### Solution
+
+When the Pentagon was built in 1941-3, racial segregation was still in place in
+Virginia. The building was constructed accordingly with separate eating and
+bathroom facilities. Segregation was ended in the armed forces in 1941. As
+the Pentagon neared completion President Roosevelt toured it, and ordered the
+removal of the "whites only" signs.
+</div>
+
+
+
+## Episode 42 - The Balmis Expedition: Using Orphans to Combat Smallpox
+
+- Sharon reading, Greg guessing.
+- Segment begins 18:30.
+- Puzzle begins 19:21, duration 10:54.
+- Source: Listener David White
+- Based on a true event, but the details are invented.
+
+Daniel is an unmarried man who lives alone. He owns a car that works perfectly
+well, and is driven only by him. However, to make his driving more convenient,
+Daniel decides to buy another car, just like the one he has, which will also be
+driven only by him. Why?
+
+<div id="sol-42" class="fold" markdown="1">
+### Solution
+
+In 1989, Mexico City introduced new laws to help control traffic congestion and
+pollution. The laws limited which cars could drive on which days of the week,
+based on the last digit of their license plate.
+
+Daniel, like many real residents of Mexico City, has adopted the simple
+expedient of buying an extra car with a different last digit.
+</div>
+
+
+
+
+## Episode 41 - The Tragic Tale of the *Lady Be Good*
+
+### Puzzle 1
+
+- Greg reading, Sharon guessing.
+- Segment begins 18:20.
+- Puzzle begins 18:44, duration 0:33.
+- Source: Story about Thales of Miletus, ancient Greek philosopher.
+
+There was a salt mine, and mules were used to carry salt out of the mine. One
+day a mule slipped and fell into a stream while carrying its load of salt. The
+salt dissolved, and the mule found that the load was lighter. From then on, when
+they got to the stream, this mule would lie down in the stream and the salt
+would dissolve. It fell to Thales to cure the mule of this habit. How did he do
+it?
+
+<div id="sol-41-1" class="fold" markdown="1">
+### Solution
+
+He filled the mule's pack with something that would be much heavier when wet:
+sponges.
+</div>
+
+
+### Puzzle 2
+
+- Greg reading, Sharon guessing.
+l Puzzle begins 19:40, duration 9:56.
+- Source: Greg's research.
+- True story.
+
+Polish chess grandmaster Miguel Najdorf had a brilliant facility for "blindfold
+chess" - playing without sight of the board. He played exhibitions where he
+played dozens of blindfold games at once, keeping all of them in his head. His
+record was 45 simultaneous opponents, and he is considered probably one of the
+top 5 all-time blindfold chess players.
+
+The unusual part is that he only played in this way for a few years, and then
+stopped. Why did he only play blindfolded for a short time?
+
+<div id="sol-41-2" class="fold" markdown="1">
+### Solution
+
+Najdorf, a Jew, was in Buenos Aires for a chess conference when the Nazis
+invaded Poland in 1939. Unable to return home, he devised a way to announce
+indirectly to his family in Poland that he was alive and well. He played these
+big exhibitions of blindfold chess so that his family might see the news
+coverage.
+
+The second exhibition, in Brazil in 1947, is where he played 45 simultaneous
+games. Of the 45 games, he won 39, drew 4 and lost 2, which is a record that
+stood for 64 years.
+</div>
+
+<div id="followup-41-1" class="fold" markdown="1">
+### Follow-up - Episode 43
+
+Natan Sharanski was a chess prodigy in his youth. He was a *refusenik* in the
+Soviet Union, and spent 9 years in prison there. Some of his time in prison was
+spent in solitary confinement. He recorded in his autobiography that he played
+many chess games against himself in his head, and credits that practice with
+preserving his sanity.
+
+Links: [Sharansky's autobiography *Fear No Evil*](http://a.co/4NofwgL) and a [BBC News Magazine article](http://www.bbc.com/news/magazine-25560162).
+</div>
+
+
+
+## Episode 40 - The Mary Celeste: A Great Sea Mystery
+
+- Sharon reading, Greg guessing.
+- Segment begins 32:24.
+- Puzzle begins 32:45, duration 4:05.
+- Source: Listener Nicholas Madrid
+
+A young woman goes to a nightclub and tries to have fun. Someone slips a pill
+into her drink without her noticing. After she finishes it, a dramatic change
+comes over her. An hour later, she departs the club with a strange man who had
+previously filled her with fear. Her sister is also at the club, and watches the
+situation unfold, but does nothing to prevent it. Why not?
+
+<div id="sol-40" class="fold" markdown="1">
+### Solution
+
+Both sisters suffer from social anxiety disorder. The sister takes a
+prescription drug to help manage her anxiety, but the woman dismisses it as a
+placebo. So one night, the sister slips the pill into her drink to demonstrate
+the drug's effectiveness.
+</div>
+
+
+
+
 ## Episode 39 - Lateral Thinking Puzzles
 
 ### Puzzle 1
