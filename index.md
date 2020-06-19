@@ -35,6 +35,87 @@ Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
 
+## Episode 59 - The Wizard of Mauritius
+
+- Sharon reading, Greg guessing
+- Segment begins at 26:53
+- Puzzle begins 27:25, duration 5:14
+- Source: Listener David White
+- Possibly based on a true story
+
+A drunken passenger in a truck sees a man walking on the side of the road. 
+As the truck approaches and passes the man, the passenger leans out of his
+window and throws his half-empty beer can at the man, hitting him in the
+head.  The man cries out in pain as the truck drives away.  The next day, as
+a result of his actions, the passenger who threw the beer can is given a
+promotion at work and a pay raise by his boss.  Why?
+
+<div id="sol-59-1" class="fold" markdown="1">
+### Solution
+
+As the story goes, this took place during the filming of a highway scene in
+the movie Being John Malkovich.  The driver and passenger of the truck were
+extras in the cast, who presumably had some low paying non-verbal role to
+play in the film.  However, the truck passenger had gotten drunk during the
+filming of the scene where John Malkovich, who plays himself, is walking on
+the shoulder of the road.  As the extra was being driven past the actor, he
+yelled out "Hey, Malkovich!  Think fast!" and threw his beer can at him,
+hitting John Malkovich in the head and making him yell in pain.  The
+director was apparently pleased by this unexpected moment of painful
+slapstick and decided to include it in the film.  As a result, rather than
+getting fired for assault, the drunken passenger was promoted from
+non-speaking extra to actor.  This entitled him to receive his Screen Actors
+Guild card and his daily pay on the set was raised from $100 to $700 per
+day.
+</div>
+
+## Episode 58 - English as She is Spoke
+
+- Greg reading, Sharon guessing
+- Segment begins at 22:50
+- Puzzle begins 22:16, duration 6:46
+- Source: Listener Lawrence Miller
+- Based on a true story
+
+A bank robber, in advance of the robbery, places an ad that includes the
+time and place of the robbery and a detailed description of the robber.  The
+robber gets away with the crime.  What happened?
+
+<div id="sol-58-1" class="fold" markdown="1">
+### Solution
+
+This actually happened in 2008.  A robber took out an ad on Craigslist
+offering a day of work for road maintenance workers and asked them all to be
+wearing a bright yellow ANSI-certified conspicuity vest, safety googles, and
+a respirator mask, all of which the typical freelance road maintenance
+worker would own, and coincidentally what the robber wore to the scene.  He
+asked them to meet outside the bank - this is the Bank of America branch in
+Monroe, Washington - at 11 AM.  They thought they'd get $28.50 an hour for
+road work and instead they acted as decoys.  From a witness's point of view,
+a bunch of workmen were standing around waiting to start work when one of
+them casually walked over to a guard who was unloading money into the bank,
+pepper sprayed him, grabbed the money, and ran away. And as far as I can
+tell, he was never caught.
+
+</div>
+
+## Episode 57 - Jules Verne's Lost Novel
+
+- Sharon reading, Greg guessing
+- Segment begins at 27:21
+- Puzzle begins 27:49
+- Source: Listener David Morgan via "Jed's list of situation puzzles"
+
+He was killed by breakfast.
+
+<div id="sol-57-1" class="fold" markdown="1">
+### Solution
+
+He's making breakfast, and like you, he likes a lot of pepper on his eggs,
+which causes him to sneeze violently, which starts an avalanche and kills
+him.
+</div>
+
 ## Episode 56 - Lateral Thinking Puzzles
 
 ### Puzzle 1
