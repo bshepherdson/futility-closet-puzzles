@@ -39,7 +39,7 @@ to reveal them.
 
 - Sharon reading, Greg guessing
 - Segment begins at 26:53
-- Puzzle begins 27:25, duration 
+- Puzzle begins 27:25, duration 5:14
 - Source: Listener David White
 - Possibly based on a true story
 
