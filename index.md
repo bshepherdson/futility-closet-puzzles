@@ -35,6 +35,23 @@ Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
 
+## Episode 57 - Jules Verne's Lost Novel
+
+- Sharon reading, greg Guessing.
+- Segment begins at 27:21
+- Puzzle begins 27:49, duration ...
+- Source: Listener David Morgan via "Jed's list of situation puzzles"
+
+He was killed by breakfast.
+
+<div id="sol-56-1" class="fold" markdown="1">
+### Solution
+
+He's making breakfast, and like you, he likes a lot of pepper on his eggs,
+which causes him to sneeze violently, which starts an avalanche and kills
+him.
+</div>
+
 ## Episode 56 - Lateral Thinking Puzzles
 
 ### Puzzle 1
