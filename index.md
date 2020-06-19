@@ -35,16 +35,46 @@ Solutions (and follow-up with spoilers) are hidden behind a fold; you can click
 to reveal them.
 
 
+## Episode 58 - English as She is Spoke
+
+- Greg reading, Sharon guessing
+- Segment begins at 22:50
+- Puzzle begins 22:16, duration 6:46
+- Source: Listener Lawrence Miller
+- Based on a true story
+
+A bank robber, in advance of the robbery, places an ad that includes the
+time and place of the robbery and a detailed description of the robber.  The
+robber gets away with the crime.  What happened?
+
+<div id="sol-56-1" class="fold" markdown="1">
+### Solution
+
+This actually happened in 2008.  A robber took out an ad on Craigslist
+offering a day of work for road maintenance workers and asked them all to be
+wearing a bright yellow ANSI-certified conspicuity vest, safety googles, and
+a respirator mask, all of which the typical freelance road maintenance
+worker would own, and coincidentally what the robber wore to the scene.  He
+asked them to meet outside the bank - this is the Bank of America branch in
+Monroe, Washington - at 11 AM.  They thought they'd get $28.50 an hour for
+road work and instead they acted as decoys.  From a witness's point of view,
+a bunch of workmen were standing around waiting to start work when one of
+them casually walked over to a guard who was unloading money into the bank,
+pepper sprayed him, grabbed the money, and ran away. And as far as I can
+tell, he was never caught.
+
+</div>
+
 ## Episode 57 - Jules Verne's Lost Novel
 
-- Sharon reading, greg Guessing.
+- Sharon reading, Greg guessing
 - Segment begins at 27:21
-- Puzzle begins 27:49, duration ...
+- Puzzle begins 27:49
 - Source: Listener David Morgan via "Jed's list of situation puzzles"
 
 He was killed by breakfast.
 
-<div id="sol-56-1" class="fold" markdown="1">
+<div id="sol-57-1" class="fold" markdown="1">
 ### Solution
 
 He's making breakfast, and like you, he likes a lot of pepper on his eggs,
